@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Si utilizas este código, dataset homologado o resultados en tu investigación, por favor cita el artículo de LACCEI 2026."
+title: "Clusterización territorial de las preferencias electorales en la primera vuelta presidencial del Perú 2026 aplicando algoritmos de Machine Learning no supervisado sobre datos de la ONPE"
+type: software
+authors:
+  - family-names: "Tirabantes Córdova"
+    given-names: "Luis Miguel"
+    email: "u17307151@utp.edu.pe"
+    affiliation: "Department of Engineering, Universidad Tecnológica del Perú, Lima, Perú"
+abstract: >-
+  Pipeline computacional reproducible bajo el marco CRISP-DM para la clusterización
+  territorial de los resultados de la primera vuelta presidencial del Perú 2026 en
+  las 1,890 circunscripciones distritales a partir de microdatos abiertos de la ONPE.
+keywords:
+  - "territorial clustering"
+  - "electoral open data"
+  - "unsupervised machine learning"
+  - "Peru 2026 presidential election"
+  - "CRISP-DM"
+  - "LACCEI 2026"
+license: "MIT"
+repository-code: "https://github.com/Lumitico/elecciones-peru-2026-ml"
+preferred-citation:
+  type: conference-paper
+  title: "Territorial Clustering of Electoral Preferences in the 2026 Peruvian Presidential First Round Using Unsupervised Machine Learning on Official ONPE Data"
+  authors:
+    - family-names: "Tirabantes Córdova"
+      given-names: "Luis Miguel"
+  editors:
+    - family-names: "Santillán Aching"
+      given-names: "Omar"
+  collection-title: "Proceedings of the 24th LACCEI International Multi-Conference for Engineering, Education, and Technology (LACCEI 2026)"
+  year: 2026
+  conference:
+    name: "24th LACCEI International Multi-Conference for Engineering, Education, and Technology"
+    city: "Santiago"
+    country: "CL"
+  institution:
+    name: "Universidad Tecnológica del Perú"
